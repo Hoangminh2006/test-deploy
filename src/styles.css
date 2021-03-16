@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.fa-22px
+{
+    font-size: 20px;
+}
+.cusor-hover{
+    cursor: pointer;
+}
+.relative{
+    position: relative;
+}
+.absolute{
+    position: absolute;
+}

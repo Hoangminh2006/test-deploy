@@ -1,0 +1,79 @@
+
+.menu-left-contain {
+    width: 100%;
+    height: auto;
+    z-index: 1;
+}
+
+.icon-svg {
+    width: 30px;
+    height: 30px;
+}
+
+.nav-link {
+    display: block;
+    padding: 0 1rem;
+    padding-left: 0px;
+    color: black;
+    margin: 4px 0;
+}
+
+.nav-link:hover .border-link {
+    color: #1da1f2;
+    background-color: rgba(255, 0, 0, 0.07);
+}
+
+.nav-pills .nav-link.active {
+    background-color: #fff;
+}
+
+/* .nav-pills .nav-link.active .css-1dbjc4n {
+    color: #fff;
+} */
+
+.nav-pills .nav-link.active i {
+    color: #1da1f2;
+}
+
+.nav-pills .nav-link.active span {
+    color: #1da1f2;
+}
+
+.border-link {
+    border-radius: 20px;
+    width: fit-content;
+    height: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.border-link span {
+    font-weight: 700;
+    font-size: 19px;
+    margin-left: 20px;
+}
+
+.box-icon {
+    width: 32px;
+    height: 32px;
+}
+
+.nav-link-header {
+    background-color: #1da1f2;
+    height: 50px;
+    border-radius: 20px;
+}
+
+.border-icon-trend {
+    width: 35px;
+    height: 35px;
+    border-radius: 25px;
+    line-height: 2px;
+    font-size: 22px;
+    font-weight: 600;
+    color: #17a2b8;
+}
+
+.border-icon-trend:hover {
+    background-color: rgb(91, 112, 131, 0.3);
+}

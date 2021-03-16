@@ -1,0 +1,56 @@
+.list-trends {
+    width:100%;
+}
+
+.who-follow {
+    width: 100%;
+}
+
+.trend {
+    width: 55%;
+    display: block;
+}
+
+.border-icon-trend {
+    width: 35px;
+    height: 35px;
+    border-radius: 25px;
+    line-height: 2px;
+    font-size: 22px;
+    font-weight: 600;
+    color: #17a2b8;
+}
+
+.border-icon-trend:hover {
+    background-color: rgb(91, 112, 131, 0.3);
+}
+
+.item-trend:hover {
+    background-color: rgba(97, 255, 255, 0.3);
+}
+
+/* css-showmore */
+
+.item-trend {
+    display: none;
+}
+
+.note-post {
+    font-weight: 400;
+    font-size: 14px;
+    color: rgb(91, 112, 131);
+}
+
+.fix-trend {
+    position: fixed;
+    z-index: 800;
+}
+
+.fix-search-input {
+    position: fixed;
+    z-index: 1000;
+}
+
+.extention-right {
+    width: 100%;
+}
